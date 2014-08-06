@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 7c938e483508c4e42b9936fb22706cfd
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_0
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 687
+        width: 392
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_1
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 606
+        width: 309
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 609
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_3
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 635
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_4
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 582
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_7
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 359
+        width: 305
+        height: 201
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 411
+        height: 603
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_13
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 233
+        width: 219
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_14
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 266
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 257
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_16
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 134
+        width: 66
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_17
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 134
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_18
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_19
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 0
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PEZZI-RIEMPITIVI-BIANCHI-MARK_14
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 388
+        width: 162
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

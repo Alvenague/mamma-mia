@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 38bbccc37024c774d842d3e5a509a16a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: prova_0
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 7537
+        width: 310
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_1
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 7537
+        width: 313
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_2
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 7535
+        width: 312
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 6815
+        width: 310
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_4
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 6815
+        width: 310
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_5
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 6815
+        width: 313
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 6095
+        width: 313
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_7
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 6095
+        width: 310
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_8
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 6095
+        width: 310
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 5373
+        width: 313
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_10
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 5373
+        width: 311
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_11
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 5373
+        width: 312
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_12
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4649
+        width: 310
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_13
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 4649
+        width: 312
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_14
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 4648
+        width: 312
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_15
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3927
+        width: 312
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_16
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3927
+        width: 310
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_17
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 3928
+        width: 310
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_18
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 3207
+        width: 310
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_19
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 3205
+        width: 315
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_20
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 3207
+        width: 310
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2480
+        width: 312
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_22
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 2480
+        width: 310
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_23
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 2485
+        width: 312
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: prova_24
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1761
+        width: 310
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

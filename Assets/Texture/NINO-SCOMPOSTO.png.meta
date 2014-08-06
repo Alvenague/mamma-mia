@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 2abcb410faaa22b48bb026775c9b9864
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NINO-SCOMPOSTO_0
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 3170
+        width: 125
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_1
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 3202
+        width: 125
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_2
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 2959
+        width: 113
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_3
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 3004
+        width: 125
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_4
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 2829
+        width: 142
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_5
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 2852
+        width: 129
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_6
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2676
+        width: 118
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_7
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 2700
+        width: 118
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_8
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 2550
+        width: 98
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_9
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2570
+        width: 97
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_10
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 2327
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_11
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 2351
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1866
+        width: 1062
+        height: 457
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_14
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 1367
+        width: 1068
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_15
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1404
+        width: 470
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_16
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1861
+        width: 57
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_17
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1545
+        width: 179
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_18
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1660
+        width: 111
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_19
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 1671
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_20
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 1588
+        width: 357
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_21
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 1351
+        width: 275
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_22
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1112
+        width: 214
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_23
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1047
+        width: 174
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_24
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1047
+        width: 179
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_25
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 776
+        width: 170
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_26
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 776
+        width: 174
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_27
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 593
+        width: 126
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 646
+        width: 121
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_29
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 646
+        width: 122
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_30
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 646
+        width: 121
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_31
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 124
+        width: 164
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_32
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 124
+        width: 168
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_33
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 0
+        width: 166
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NINO-SCOMPOSTO_34
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 0
+        width: 166
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
