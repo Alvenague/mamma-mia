@@ -1,6 +1,8 @@
 fileFormatVersion: 2
-guid: a2293ff684c14c244b081d6f750f471c
+guid: 6e1c388c5eafe954a8a773bed2cfe6a1
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: card2
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -24,9 +26,9 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
