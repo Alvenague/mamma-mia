@@ -5,6 +5,7 @@ public class Card : MonoBehaviour {
 
 
 	public Sprite frontCard;
+	public int cardnum;
 	Sprite backCard;
 
 	Vector3 backCardScale;
