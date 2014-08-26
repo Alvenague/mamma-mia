@@ -16,7 +16,7 @@ public class StartMenuGUI : MonoBehaviour {
 		}
 
 		if(GUI.Button(new Rect(Screen.width/2 - 50,190,100,20),"Gioco Due")){
-
+			Application.LoadLevel("Scene2");
 		}
 	}
 }
